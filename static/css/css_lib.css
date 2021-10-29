@@ -44,12 +44,12 @@
 
 /*  //// Flex Box ////////////////////////////////////////////////// */
 
-body {
+/* body {
     display: flex;
     width: 100%;
     margin: 0 auto;
     justify-content: center;
-}
+} */
 
 .main_container {
     width: 80%;
@@ -66,9 +66,9 @@ body {
 
 /*      ---- Flex Direction ---------------------------------------- */
 
-.container {
+/* .container {
     display: flex;
-}
+} */
 
 .flex-right {
     flex-direction: row;
@@ -112,7 +112,7 @@ body {
 
 /*  //// Columns ///////////////////////////////////////////////// */
 
-.col-1 {
+/* .col-1 {
     flex: 1;
 }
 
@@ -122,7 +122,7 @@ body {
 
 .col-3 {
     flex: 3;
-}
+} */
 
 /*  //// WIDTH ///////////////////////////////////////////////////// */
 
